@@ -1,11 +1,6 @@
 package com.bressam.helloworld
 
-import androidx.appcompat.app.AppCompatActivity
-import android.os.Bundle
+import androidx.fragment.app.Fragment
 
-class LoginFragment : AppCompatActivity() {
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        setContentView(R.layout.fragment_login)
-    }
+class LoginFragment : Fragment(R.layout.fragment_login) {
 }
