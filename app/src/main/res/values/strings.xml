@@ -4,4 +4,6 @@
     <string name="login_text">Login</string>
     <string name="forgot_your_password_text">Forgot your password?</string>
     <string name="password_text">Password</string>
+    <string name="welcome">Welcome!</string>
+    <string name="meigroly">Meigroly</string>
 </resources>
