@@ -20,3 +20,11 @@
 <img alt="Login Screen - Light Mode" width="200" src="https://github.com/abressam/Meigroly_Android_Venturus/blob/development/assets/login_light_mode.png">
 <img alt="Login Screen - Dark Mode" width="200" src="https://github.com/abressam/Meigroly_Android_Venturus/blob/development/assets/login_dark_mode.png">
 </div>
+
+# 🧠 Conceitos Utilizados
+
+* Constraint Layout;
+* Views (TextView, ImageView, Button, ImageButton, EditText);
+* Activity;
+* Fragment;
+* ToolsBar personalizada.
